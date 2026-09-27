@@ -6,7 +6,9 @@ Technical Domain Recruitment 2026–27** "QR Code Generator & Designer" assignme
 
 QR LAB is not a basic QR generator. It's a small design studio, a reliability engine, and a
 stress-testing lab, built entirely as a static single-page app with no backend.
-
+## LIVE DEMO
+[**Open QR LAB**]
+https://qr-lab-six.vercel.app/
 ---
 
 ## Features
